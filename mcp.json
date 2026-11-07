@@ -1,0 +1,11 @@
+{
+  "name": "mcp-py-quran-uthmani",
+  "protocol": "mcp/1.0",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "query_quran_uthmani",
+      "description": "Execute quran-uthmani MCP tool"
+    }
+  ]
+}
